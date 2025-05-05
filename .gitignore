@@ -1,0 +1,31 @@
+# Diretórios de build
+/build
+**/build/
+
+# Diretórios do Gradle
+.gradle/
+**/.gradle/
+
+# Arquivos de configuração do Android Studio
+.idea/
+*.iml
+
+# Arquivos de sistema
+.DS_Store
+*.log
+*.tmp
+
+# Cache
+/local.properties
+
+# APKs e Zips
+*.apk
+*.zip
+
+# Backup
+*.bak
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
